@@ -1,0 +1,9 @@
+D:\157個完美畫C#的建議\001UseTheStringCorrectly\001UseTheStringCorrectly\bin\Debug\001UseTheStringCorrectly.exe.config
+D:\157個完美畫C#的建議\001UseTheStringCorrectly\001UseTheStringCorrectly\bin\Debug\001UseTheStringCorrectly.exe
+D:\157個完美畫C#的建議\001UseTheStringCorrectly\001UseTheStringCorrectly\bin\Debug\001UseTheStringCorrectly.pdb
+D:\157個完美畫C#的建議\001UseTheStringCorrectly\001UseTheStringCorrectly\obj\Debug\001UseTheStringCorrectly.csprojResolveAssemblyReference.cache
+D:\157個完美畫C#的建議\001UseTheStringCorrectly\001UseTheStringCorrectly\obj\Debug\_001UseTheStringCorrectly.Form1.resources
+D:\157個完美畫C#的建議\001UseTheStringCorrectly\001UseTheStringCorrectly\obj\Debug\_001UseTheStringCorrectly.Properties.Resources.resources
+D:\157個完美畫C#的建議\001UseTheStringCorrectly\001UseTheStringCorrectly\obj\Debug\001UseTheStringCorrectly.csproj.GenerateResource.Cache
+D:\157個完美畫C#的建議\001UseTheStringCorrectly\001UseTheStringCorrectly\obj\Debug\001UseTheStringCorrectly.exe
+D:\157個完美畫C#的建議\001UseTheStringCorrectly\001UseTheStringCorrectly\obj\Debug\001UseTheStringCorrectly.pdb
