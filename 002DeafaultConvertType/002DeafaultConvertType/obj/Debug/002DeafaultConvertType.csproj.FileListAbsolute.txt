@@ -1,0 +1,9 @@
+D:\157個完美畫C#的建議\002DeafaultConvertType\002DeafaultConvertType\bin\Debug\002DeafaultConvertType.exe.config
+D:\157個完美畫C#的建議\002DeafaultConvertType\002DeafaultConvertType\bin\Debug\002DeafaultConvertType.exe
+D:\157個完美畫C#的建議\002DeafaultConvertType\002DeafaultConvertType\bin\Debug\002DeafaultConvertType.pdb
+D:\157個完美畫C#的建議\002DeafaultConvertType\002DeafaultConvertType\obj\Debug\002DeafaultConvertType.csprojResolveAssemblyReference.cache
+D:\157個完美畫C#的建議\002DeafaultConvertType\002DeafaultConvertType\obj\Debug\_002DeafaultConvertType.Form1.resources
+D:\157個完美畫C#的建議\002DeafaultConvertType\002DeafaultConvertType\obj\Debug\_002DeafaultConvertType.Properties.Resources.resources
+D:\157個完美畫C#的建議\002DeafaultConvertType\002DeafaultConvertType\obj\Debug\002DeafaultConvertType.csproj.GenerateResource.Cache
+D:\157個完美畫C#的建議\002DeafaultConvertType\002DeafaultConvertType\obj\Debug\002DeafaultConvertType.exe
+D:\157個完美畫C#的建議\002DeafaultConvertType\002DeafaultConvertType\obj\Debug\002DeafaultConvertType.pdb
