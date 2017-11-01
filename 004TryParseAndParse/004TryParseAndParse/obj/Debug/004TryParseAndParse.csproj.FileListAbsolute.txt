@@ -1,0 +1,9 @@
+D:\157個完美畫C#的建議\004TryParseAndParse\004TryParseAndParse\bin\Debug\004TryParseAndParse.exe.config
+D:\157個完美畫C#的建議\004TryParseAndParse\004TryParseAndParse\bin\Debug\004TryParseAndParse.exe
+D:\157個完美畫C#的建議\004TryParseAndParse\004TryParseAndParse\bin\Debug\004TryParseAndParse.pdb
+D:\157個完美畫C#的建議\004TryParseAndParse\004TryParseAndParse\obj\Debug\004TryParseAndParse.csprojResolveAssemblyReference.cache
+D:\157個完美畫C#的建議\004TryParseAndParse\004TryParseAndParse\obj\Debug\_004TryParseAndParse.Form1.resources
+D:\157個完美畫C#的建議\004TryParseAndParse\004TryParseAndParse\obj\Debug\_004TryParseAndParse.Properties.Resources.resources
+D:\157個完美畫C#的建議\004TryParseAndParse\004TryParseAndParse\obj\Debug\004TryParseAndParse.csproj.GenerateResource.Cache
+D:\157個完美畫C#的建議\004TryParseAndParse\004TryParseAndParse\obj\Debug\004TryParseAndParse.exe
+D:\157個完美畫C#的建議\004TryParseAndParse\004TryParseAndParse\obj\Debug\004TryParseAndParse.pdb
