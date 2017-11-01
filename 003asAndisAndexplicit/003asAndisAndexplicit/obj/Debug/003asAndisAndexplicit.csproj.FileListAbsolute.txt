@@ -1,0 +1,9 @@
+D:\157個完美畫C#的建議\003asAndisAndexplicit\003asAndisAndexplicit\bin\Debug\003asAndisAndexplicit.exe.config
+D:\157個完美畫C#的建議\003asAndisAndexplicit\003asAndisAndexplicit\obj\Debug\003asAndisAndexplicit.csprojResolveAssemblyReference.cache
+D:\157個完美畫C#的建議\003asAndisAndexplicit\003asAndisAndexplicit\obj\Debug\_003asAndisAndexplicit.Form1.resources
+D:\157個完美畫C#的建議\003asAndisAndexplicit\003asAndisAndexplicit\obj\Debug\_003asAndisAndexplicit.Properties.Resources.resources
+D:\157個完美畫C#的建議\003asAndisAndexplicit\003asAndisAndexplicit\obj\Debug\003asAndisAndexplicit.csproj.GenerateResource.Cache
+D:\157個完美畫C#的建議\003asAndisAndexplicit\003asAndisAndexplicit\bin\Debug\003asAndisAndexplicit.exe
+D:\157個完美畫C#的建議\003asAndisAndexplicit\003asAndisAndexplicit\bin\Debug\003asAndisAndexplicit.pdb
+D:\157個完美畫C#的建議\003asAndisAndexplicit\003asAndisAndexplicit\obj\Debug\003asAndisAndexplicit.exe
+D:\157個完美畫C#的建議\003asAndisAndexplicit\003asAndisAndexplicit\obj\Debug\003asAndisAndexplicit.pdb
