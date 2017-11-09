@@ -1,0 +1,9 @@
+D:\157個完美畫C#的建議\006readonlyAndconstUse\006readonlyAndconstUse\bin\Debug\006readonlyAndconstUse.exe.config
+D:\157個完美畫C#的建議\006readonlyAndconstUse\006readonlyAndconstUse\bin\Debug\006readonlyAndconstUse.exe
+D:\157個完美畫C#的建議\006readonlyAndconstUse\006readonlyAndconstUse\bin\Debug\006readonlyAndconstUse.pdb
+D:\157個完美畫C#的建議\006readonlyAndconstUse\006readonlyAndconstUse\obj\Debug\006readonlyAndconstUse.csprojResolveAssemblyReference.cache
+D:\157個完美畫C#的建議\006readonlyAndconstUse\006readonlyAndconstUse\obj\Debug\_006readonlyAndconstUse.Form1.resources
+D:\157個完美畫C#的建議\006readonlyAndconstUse\006readonlyAndconstUse\obj\Debug\_006readonlyAndconstUse.Properties.Resources.resources
+D:\157個完美畫C#的建議\006readonlyAndconstUse\006readonlyAndconstUse\obj\Debug\006readonlyAndconstUse.csproj.GenerateResource.Cache
+D:\157個完美畫C#的建議\006readonlyAndconstUse\006readonlyAndconstUse\obj\Debug\006readonlyAndconstUse.exe
+D:\157個完美畫C#的建議\006readonlyAndconstUse\006readonlyAndconstUse\obj\Debug\006readonlyAndconstUse.pdb
