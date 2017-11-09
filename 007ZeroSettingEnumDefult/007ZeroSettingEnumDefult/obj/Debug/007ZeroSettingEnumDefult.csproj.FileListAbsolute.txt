@@ -1,0 +1,8 @@
+D:\157個完美畫C#的建議\007ZeroSettingEnumDefult\007ZeroSettingEnumDefult\bin\Debug\007ZeroSettingEnumDefult.exe.config
+D:\157個完美畫C#的建議\007ZeroSettingEnumDefult\007ZeroSettingEnumDefult\bin\Debug\007ZeroSettingEnumDefult.exe
+D:\157個完美畫C#的建議\007ZeroSettingEnumDefult\007ZeroSettingEnumDefult\bin\Debug\007ZeroSettingEnumDefult.pdb
+D:\157個完美畫C#的建議\007ZeroSettingEnumDefult\007ZeroSettingEnumDefult\obj\Debug\_007ZeroSettingEnumDefult.Form1.resources
+D:\157個完美畫C#的建議\007ZeroSettingEnumDefult\007ZeroSettingEnumDefult\obj\Debug\_007ZeroSettingEnumDefult.Properties.Resources.resources
+D:\157個完美畫C#的建議\007ZeroSettingEnumDefult\007ZeroSettingEnumDefult\obj\Debug\007ZeroSettingEnumDefult.csproj.GenerateResource.Cache
+D:\157個完美畫C#的建議\007ZeroSettingEnumDefult\007ZeroSettingEnumDefult\obj\Debug\007ZeroSettingEnumDefult.exe
+D:\157個完美畫C#的建議\007ZeroSettingEnumDefult\007ZeroSettingEnumDefult\obj\Debug\007ZeroSettingEnumDefult.pdb
