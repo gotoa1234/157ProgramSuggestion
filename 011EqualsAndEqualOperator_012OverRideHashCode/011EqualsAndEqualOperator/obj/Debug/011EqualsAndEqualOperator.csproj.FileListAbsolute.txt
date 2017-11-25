@@ -1,0 +1,12 @@
+D:\157個完美畫C#的建議\011EqualsAndEqualOperator\011EqualsAndEqualOperator\bin\Debug\011EqualsAndEqualOperator.exe.config
+D:\157個完美畫C#的建議\011EqualsAndEqualOperator\011EqualsAndEqualOperator\obj\Debug\011EqualsAndEqualOperator.csprojResolveAssemblyReference.cache
+D:\157個完美畫C#的建議\011EqualsAndEqualOperator\011EqualsAndEqualOperator\obj\Debug\_011EqualsAndEqualOperator.Form1.resources
+D:\157個完美畫C#的建議\011EqualsAndEqualOperator\011EqualsAndEqualOperator\obj\Debug\_011EqualsAndEqualOperator.Properties.Resources.resources
+D:\157個完美畫C#的建議\011EqualsAndEqualOperator\011EqualsAndEqualOperator\obj\Debug\011EqualsAndEqualOperator.csproj.GenerateResource.Cache
+D:\157個完美畫C#的建議\011EqualsAndEqualOperator\011EqualsAndEqualOperator\bin\Debug\011EqualsAndEqualOperator.exe
+D:\157個完美畫C#的建議\011EqualsAndEqualOperator\011EqualsAndEqualOperator\bin\Debug\011EqualsAndEqualOperator.pdb
+D:\157個完美畫C#的建議\011EqualsAndEqualOperator\011EqualsAndEqualOperator\obj\Debug\011EqualsAndEqualOperator.exe
+D:\157個完美畫C#的建議\011EqualsAndEqualOperator\011EqualsAndEqualOperator\obj\Debug\011EqualsAndEqualOperator.pdb
+D:\157個完美畫C#的建議\011EqualsAndEqualOperator_012OverRideHashCode\011EqualsAndEqualOperator\bin\Debug\011EqualsAndEqualOperator.exe.config
+D:\157個完美畫C#的建議\011EqualsAndEqualOperator_012OverRideHashCode\011EqualsAndEqualOperator\obj\Debug\011EqualsAndEqualOperator.exe
+D:\157個完美畫C#的建議\011EqualsAndEqualOperator_012OverRideHashCode\011EqualsAndEqualOperator\obj\Debug\011EqualsAndEqualOperator.pdb
