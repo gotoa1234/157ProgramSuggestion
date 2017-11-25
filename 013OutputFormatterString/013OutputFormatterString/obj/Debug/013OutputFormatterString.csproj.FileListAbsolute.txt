@@ -1,0 +1,9 @@
+D:\157個完美畫C#的建議\013OutputFormatterString\013OutputFormatterString\bin\Debug\013OutputFormatterString.exe.config
+D:\157個完美畫C#的建議\013OutputFormatterString\013OutputFormatterString\bin\Debug\013OutputFormatterString.exe
+D:\157個完美畫C#的建議\013OutputFormatterString\013OutputFormatterString\bin\Debug\013OutputFormatterString.pdb
+D:\157個完美畫C#的建議\013OutputFormatterString\013OutputFormatterString\obj\Debug\013OutputFormatterString.csprojResolveAssemblyReference.cache
+D:\157個完美畫C#的建議\013OutputFormatterString\013OutputFormatterString\obj\Debug\_013OutputFormatterString.Form1.resources
+D:\157個完美畫C#的建議\013OutputFormatterString\013OutputFormatterString\obj\Debug\_013OutputFormatterString.Properties.Resources.resources
+D:\157個完美畫C#的建議\013OutputFormatterString\013OutputFormatterString\obj\Debug\013OutputFormatterString.csproj.GenerateResource.Cache
+D:\157個完美畫C#的建議\013OutputFormatterString\013OutputFormatterString\obj\Debug\013OutputFormatterString.exe
+D:\157個完美畫C#的建議\013OutputFormatterString\013OutputFormatterString\obj\Debug\013OutputFormatterString.pdb
