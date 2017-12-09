@@ -1,0 +1,9 @@
+D:\157個完美畫C#的建議\014RightCloneAndDeepClone\014RightCloneAndDeepClone\bin\Debug\014RightCloneAndDeepClone.exe.config
+D:\157個完美畫C#的建議\014RightCloneAndDeepClone\014RightCloneAndDeepClone\bin\Debug\014RightCloneAndDeepClone.exe
+D:\157個完美畫C#的建議\014RightCloneAndDeepClone\014RightCloneAndDeepClone\bin\Debug\014RightCloneAndDeepClone.pdb
+D:\157個完美畫C#的建議\014RightCloneAndDeepClone\014RightCloneAndDeepClone\obj\Debug\014RightCloneAndDeepClone.csprojResolveAssemblyReference.cache
+D:\157個完美畫C#的建議\014RightCloneAndDeepClone\014RightCloneAndDeepClone\obj\Debug\_014RightCloneAndDeepClone.Form1.resources
+D:\157個完美畫C#的建議\014RightCloneAndDeepClone\014RightCloneAndDeepClone\obj\Debug\_014RightCloneAndDeepClone.Properties.Resources.resources
+D:\157個完美畫C#的建議\014RightCloneAndDeepClone\014RightCloneAndDeepClone\obj\Debug\014RightCloneAndDeepClone.csproj.GenerateResource.Cache
+D:\157個完美畫C#的建議\014RightCloneAndDeepClone\014RightCloneAndDeepClone\obj\Debug\014RightCloneAndDeepClone.exe
+D:\157個完美畫C#的建議\014RightCloneAndDeepClone\014RightCloneAndDeepClone\obj\Debug\014RightCloneAndDeepClone.pdb
