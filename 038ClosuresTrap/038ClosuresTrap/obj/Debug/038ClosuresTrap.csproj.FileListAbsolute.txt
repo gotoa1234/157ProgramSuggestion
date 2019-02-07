@@ -1,0 +1,10 @@
+D:\ASPNET網站設計\038ClosuresTrap\038ClosuresTrap\bin\Debug\038ClosuresTrap.exe.config
+D:\githubdata\157_ProgramSuggestion\157ProgramSuggestion\038ClosuresTrap\038ClosuresTrap\bin\Debug\038ClosuresTrap.exe.config
+D:\githubdata\157_ProgramSuggestion\157ProgramSuggestion\038ClosuresTrap\038ClosuresTrap\bin\Debug\038ClosuresTrap.exe
+D:\githubdata\157_ProgramSuggestion\157ProgramSuggestion\038ClosuresTrap\038ClosuresTrap\bin\Debug\038ClosuresTrap.pdb
+D:\githubdata\157_ProgramSuggestion\157ProgramSuggestion\038ClosuresTrap\038ClosuresTrap\obj\Debug\038ClosuresTrap.csprojResolveAssemblyReference.cache
+D:\githubdata\157_ProgramSuggestion\157ProgramSuggestion\038ClosuresTrap\038ClosuresTrap\obj\Debug\_038ClosuresTrap.Form1.resources
+D:\githubdata\157_ProgramSuggestion\157ProgramSuggestion\038ClosuresTrap\038ClosuresTrap\obj\Debug\_038ClosuresTrap.Properties.Resources.resources
+D:\githubdata\157_ProgramSuggestion\157ProgramSuggestion\038ClosuresTrap\038ClosuresTrap\obj\Debug\038ClosuresTrap.csproj.GenerateResource.Cache
+D:\githubdata\157_ProgramSuggestion\157ProgramSuggestion\038ClosuresTrap\038ClosuresTrap\obj\Debug\038ClosuresTrap.exe
+D:\githubdata\157_ProgramSuggestion\157ProgramSuggestion\038ClosuresTrap\038ClosuresTrap\obj\Debug\038ClosuresTrap.pdb
