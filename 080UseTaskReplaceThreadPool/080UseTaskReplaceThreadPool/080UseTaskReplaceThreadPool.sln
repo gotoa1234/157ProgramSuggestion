@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "080UseTaskReplaceThreadPool", "080UseTaskReplaceThreadPool\080UseTaskReplaceThreadPool.csproj", "{D80DA98F-2890-4218-8A8A-57CBF173A29A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D80DA98F-2890-4218-8A8A-57CBF173A29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80DA98F-2890-4218-8A8A-57CBF173A29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80DA98F-2890-4218-8A8A-57CBF173A29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80DA98F-2890-4218-8A8A-57CBF173A29A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {687F29A1-5B39-4F12-B8FA-7E0B4CE43E2E}
+	EndGlobalSection
+EndGlobal

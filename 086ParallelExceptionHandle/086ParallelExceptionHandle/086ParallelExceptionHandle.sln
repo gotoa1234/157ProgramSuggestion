@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "086ParallelExceptionHandle", "086ParallelExceptionHandle\086ParallelExceptionHandle.csproj", "{162E7813-3591-4BB6-89FF-1A5FC8889DEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{162E7813-3591-4BB6-89FF-1A5FC8889DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162E7813-3591-4BB6-89FF-1A5FC8889DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162E7813-3591-4BB6-89FF-1A5FC8889DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162E7813-3591-4BB6-89FF-1A5FC8889DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {923655C1-2CD3-49EB-885B-6D476FE54261}
+	EndGlobalSection
+EndGlobal
