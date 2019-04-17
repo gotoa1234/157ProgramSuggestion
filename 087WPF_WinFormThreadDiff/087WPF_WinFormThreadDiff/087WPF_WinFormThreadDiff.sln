@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "087WPF_WinFormThreadDiff", "087WPF_WinFormThreadDiff\087WPF_WinFormThreadDiff.csproj", "{6F4ACF05-AC33-44E3-B07D-408CCC684832}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "087WPF_ThreadDiff", "087WPF_ThreadDiff\087WPF_ThreadDiff.csproj", "{D480109D-B5A4-432C-80AA-37DCFD710881}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6F4ACF05-AC33-44E3-B07D-408CCC684832}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F4ACF05-AC33-44E3-B07D-408CCC684832}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F4ACF05-AC33-44E3-B07D-408CCC684832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D480109D-B5A4-432C-80AA-37DCFD710881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D480109D-B5A4-432C-80AA-37DCFD710881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D480109D-B5A4-432C-80AA-37DCFD710881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D480109D-B5A4-432C-80AA-37DCFD710881}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
